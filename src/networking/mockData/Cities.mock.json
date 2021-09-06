@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "district": "San Francisco",
+      "state": "California",
+      "match": 15,
+      "price": "2,659"
+    },
+    {
+      "id": 2,
+      "district": "Boston",
+      "state": "Massachusetts",
+      "match": 12,
+      "price": "1,859"
+    },
+    {
+      "id": 3,
+      "district": "Chicago",
+      "state": "Illinois",
+      "match": 15,
+      "price": "1,650"
+    },
+    {
+      "id": 4,
+      "district": "San Francisco",
+      "state": "California",
+      "match": 15,
+      "price": "2,659"
+    },
+    {
+      "id": 5,
+      "district": "Boston",
+      "state": "Massachusetts",
+      "match": 12,
+      "price": "1,859"
+    },
+    {
+      "id": 6,
+      "district": "Chicago",
+      "state": "Illinois",
+      "match": 15,
+      "price": "1,650"
+    },
+    {
+      "id": 7,
+      "district": "Chicago",
+      "state": "Illinois",
+      "match": 15,
+      "price": "1,650"
+    },
+    {
+      "id": 8,
+      "district": "Boston",
+      "state": "Massachusetts",
+      "match": 12,
+      "price": "1,859"
+    },
+    {
+      "id": 9,
+      "district": "Chicago",
+      "state": "Illinois",
+      "match": 15,
+      "price": "1,650"
+    },
+    {
+      "id": 10,
+      "district": "Chicago",
+      "state": "Illinois",
+      "match": 15,
+      "price": "1,650"
+    }
+  ],
+  "errorId": 200,
+  "message": "Get list cities success,"
+}
