@@ -9,14 +9,26 @@
 - Jest
 
 # How to run?
+
+Android:
 ```
 yarn install
 npx react-native start --reset-cache
 npx react-native run-android or npx react-native run-ios
 ```
 
+IOS:
+```
+yarn install
+cd ios && pod install
+cd ..
+npx react-native start --reset-cache
+npx react-native run-ios
+```
+
 # How to test?
 ```
+yarn install
 yarn test
 ```
 
