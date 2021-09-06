@@ -1,0 +1,91 @@
+{
+  "data": {
+    "citiesPopular": [
+      {
+        "id": 1,
+        "district": "San Francisco",
+        "state": "California",
+        "match": 15,
+        "price": "2,659"
+      },
+      {
+        "id": 2,
+        "district": "Boston",
+        "state": "Massachusetts",
+        "match": 12,
+        "price": "1,859"
+      },
+      {
+        "id": 3,
+        "district": "Chicago",
+        "state": "Illinois",
+        "match": 15,
+        "price": "1,650"
+      }
+    ],
+    "nursePopular": [
+      {
+        "id": 1453,
+        "name": "Registered Nurse",
+        "company": "Enloe Medical Center",
+        "location": "Salem, MA (1,226 mi)",
+        "date": "2021-09-03T23:29:48+07:00",
+        "major": "Labor and Delivery",
+        "match": 97,
+        "price": "3,659",
+        "discipline": "Registered Nurse",
+        "specialty": "Neurologic Intensive Care Unit",
+        "startDate": "2021-06-16T23:29:48+07:00",
+        "endDate": "2021-07-09T23:29:48+07:00",
+        "duration": 12,
+        "shiftPerWeek": 4,
+        "hourPerWeek": 42,
+        "license": "Registered Nurse ",
+        "licenseState": "Massachusetts",
+        "certification": "BLS"
+      },
+      {
+        "id": 2323,
+        "name": "Registered Nurse",
+        "company": "Enloe Medical Center",
+        "location": "Salem, MA (1,226 mi)",
+        "date": "2021-09-03T23:29:48+07:00",
+        "major": "Labor and Delivery",
+        "match": 97,
+        "price": "2,234",
+        "discipline": "Registered Nurse",
+        "specialty": "Neurologic Intensive Care Unit",
+        "startDate": "2021-06-16T23:29:48+07:00",
+        "endDate": "2021-07-09T23:29:48+07:00",
+        "duration": 12,
+        "shiftPerWeek": 4,
+        "hourPerWeek": 42,
+        "license": "Registered Nurse ",
+        "licenseState": "Massachusetts",
+        "certification": "BLS"
+      },
+      {
+        "id": 3432,
+        "name": "Registered Nurse",
+        "company": "Enloe Medical Center",
+        "location": "Salem, MA (1,226 mi)",
+        "date": "2021-09-03T23:29:48+07:00",
+        "major": "Labor and Delivery",
+        "match": 97,
+        "price": "1,635",
+        "discipline": "Registered Nurse",
+        "specialty": "Neurologic Intensive Care Unit",
+        "startDate": "2021-06-16T23:29:48+07:00",
+        "endDate": "2021-07-09T23:29:48+07:00",
+        "duration": 12,
+        "shiftPerWeek": 4,
+        "hourPerWeek": 42,
+        "license": "Registered Nurse ",
+        "licenseState": "Massachusetts",
+        "certification": "BLS"
+      }
+    ]
+  },
+  "errorId": 200,
+  "message": "Get list nurse success,"
+}

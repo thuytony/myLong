@@ -14,6 +14,12 @@
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		B1EA29BEF5CAEEF55F988A01 /* libPods-myLongTest-myLongTestTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 86BDA392A91BFAFD7993951B /* libPods-myLongTest-myLongTestTests.a */; };
 		BD568BE43160369FCA24C093 /* libPods-myLongTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F64F98BAD4A456F435BFC1A0 /* libPods-myLongTest.a */; };
+		EA40F71626E0E48E00BDD221 /* Avenir-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA40F71026E0E48E00BDD221 /* Avenir-Heavy.ttf */; };
+		EA40F71726E0E48E00BDD221 /* Avenir-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA40F71126E0E48E00BDD221 /* Avenir-Medium.ttf */; };
+		EA40F71826E0E48E00BDD221 /* Avenir-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA40F71226E0E48E00BDD221 /* Avenir-Book.ttf */; };
+		EA40F71926E0E48E00BDD221 /* Avenir-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA40F71326E0E48E00BDD221 /* Avenir-Light.ttf */; };
+		EA40F71A26E0E48E00BDD221 /* Avenir-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA40F71426E0E48E00BDD221 /* Avenir-Black.ttf */; };
+		EA40F71B26E0E48E00BDD221 /* Avenir-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = EA40F71526E0E48E00BDD221 /* Avenir-Roman.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +48,12 @@
 		86BDA392A91BFAFD7993951B /* libPods-myLongTest-myLongTestTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myLongTest-myLongTestTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC2D86E9B8EEF362DD63A225 /* Pods-myLongTest-myLongTestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myLongTest-myLongTestTests.release.xcconfig"; path = "Target Support Files/Pods-myLongTest-myLongTestTests/Pods-myLongTest-myLongTestTests.release.xcconfig"; sourceTree = "<group>"; };
 		DEBF5CB99C2448298B3159CD /* Pods-myLongTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myLongTest.debug.xcconfig"; path = "Target Support Files/Pods-myLongTest/Pods-myLongTest.debug.xcconfig"; sourceTree = "<group>"; };
+		EA40F71026E0E48E00BDD221 /* Avenir-Heavy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Avenir-Heavy.ttf"; path = "../../src/assets/fonts/Avenir-Heavy.ttf"; sourceTree = "<group>"; };
+		EA40F71126E0E48E00BDD221 /* Avenir-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Avenir-Medium.ttf"; path = "../../src/assets/fonts/Avenir-Medium.ttf"; sourceTree = "<group>"; };
+		EA40F71226E0E48E00BDD221 /* Avenir-Book.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Avenir-Book.ttf"; path = "../../src/assets/fonts/Avenir-Book.ttf"; sourceTree = "<group>"; };
+		EA40F71326E0E48E00BDD221 /* Avenir-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Avenir-Light.ttf"; path = "../../src/assets/fonts/Avenir-Light.ttf"; sourceTree = "<group>"; };
+		EA40F71426E0E48E00BDD221 /* Avenir-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Avenir-Black.ttf"; path = "../../src/assets/fonts/Avenir-Black.ttf"; sourceTree = "<group>"; };
+		EA40F71526E0E48E00BDD221 /* Avenir-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Avenir-Roman.otf"; path = "../../src/assets/fonts/Avenir-Roman.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F64F98BAD4A456F435BFC1A0 /* libPods-myLongTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myLongTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -116,6 +128,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				EA92A9E826E0680200C33EDF /* Resources */,
 				13B07FAE1A68108700A75B9A /* myLongTest */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* myLongTestTests */,
@@ -137,6 +150,19 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		EA92A9E826E0680200C33EDF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EA40F71426E0E48E00BDD221 /* Avenir-Black.ttf */,
+				EA40F71226E0E48E00BDD221 /* Avenir-Book.ttf */,
+				EA40F71026E0E48E00BDD221 /* Avenir-Heavy.ttf */,
+				EA40F71326E0E48E00BDD221 /* Avenir-Light.ttf */,
+				EA40F71126E0E48E00BDD221 /* Avenir-Medium.ttf */,
+				EA40F71526E0E48E00BDD221 /* Avenir-Roman.otf */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		F1CEBD1F5089FD9E86DE9B49 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -145,7 +171,6 @@
 				8388B008B23BFE190D6F85AE /* Pods-myLongTest-myLongTestTests.debug.xcconfig */,
 				AC2D86E9B8EEF362DD63A225 /* Pods-myLongTest-myLongTestTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -243,8 +268,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA40F71A26E0E48E00BDD221 /* Avenir-Black.ttf in Resources */,
+				EA40F71726E0E48E00BDD221 /* Avenir-Medium.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				EA40F71926E0E48E00BDD221 /* Avenir-Light.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				EA40F71826E0E48E00BDD221 /* Avenir-Book.ttf in Resources */,
+				EA40F71B26E0E48E00BDD221 /* Avenir-Roman.otf in Resources */,
+				EA40F71626E0E48E00BDD221 /* Avenir-Heavy.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
